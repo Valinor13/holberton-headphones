@@ -10,7 +10,7 @@ You won’t have a lot of instruction, you are free to implement it the way that
 
 ## Task 0: Read and be familiar with Figma  
 
-Create an account in [Figma](https:www.figma.com)
+Create an account in [Figma](https:figma.com)
 
 **For this task, please write an amazing README.md** <br>
 Find it [here.](https://github.com/Valinor13/holberton-headphones/blob/main/README.md)

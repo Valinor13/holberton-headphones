@@ -60,4 +60,4 @@ Copy files from the previous task.
 
 ### Contributors:
 
-[Jay Calhoun](@Valinor13)
+[Jay Calhoun](Valinor13)
